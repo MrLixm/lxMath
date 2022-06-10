@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "lxMath"
-version = "0.1.0"
-description = "Mathematical components for image-processing."
+version = "0.1.1"
+description = "Graphics math library for python based on Imath "
 authors = ["Liam Collod <lcollod@gmail.com>"]
 
 [tool.poetry.dependencies]
